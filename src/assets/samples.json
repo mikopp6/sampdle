@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "artist": "Wu-Tang Clan",
+    "title": "Method Man",
+    "youtubeId": "PEnwXYJcSZc",
+    "startTime": "0",
+    "sampledFrom": 0
+  },
+  {
+    "id": 1,
+    "artist": "Mobb Deep",
+    "title": "Shook Ones Part II",
+    "youtubeId": "yoYZf-lBF_U",
+    "startTime": "0",
+    "sampledFrom": 1
+  },
+  {
+    "id": 2,
+    "artist": "2Pac",
+    "title": "Changes",
+    "youtubeId": "eXvBjCO19QY",
+    "startTime": "13",
+    "sampledFrom": 2
+  },
+  {
+    "id": 3,
+    "artist": "Mobb Deep",
+    "title": "Survival Of The Fittest",
+    "youtubeId": "Dz5VzLz67WA",
+    "startTime": "0",
+    "sampledFrom": 3
+  },
+  {
+    "id": 4,
+    "artist": "Wu-Tang Clan",
+    "title": "C.R.E.A.M",
+    "youtubeId": "PBwAxmrE194",
+    "startTime": "0",
+    "sampledFrom": 4
+  },
+  {
+    "id": 5,
+    "artist": "Kool G. Rap & D.J. Polo",
+    "title": "Road To The Riches",
+    "youtubeId": "_0CbHZ7wqDM",
+    "startTime": "0",
+    "sampledFrom": 5
+  },
+  {
+    "id": 6,
+    "artist": "Nas",
+    "title": "The World Is Yours",
+    "youtubeId": "e5PnuIRnJW8",
+    "startTime": "0",
+    "sampledFrom": 6
+  },
+  {
+    "id": 7,
+    "artist": "Nas",
+    "title": "N.Y. State Of Mind",
+    "youtubeId": "hI8A14Qcv68",
+    "startTime": "0",
+    "sampledFrom": 7
+  },
+  {
+    "id": 8,
+    "artist": "Gang Starr",
+    "title": "Family And Loyalty",
+    "youtubeId": "iMsdzxuldQM",
+    "startTime": "57",
+    "sampledFrom": 8
+  },
+  {
+    "id": 9,
+    "artist": "Ol' Dirty Bastard",
+    "title": "Shimmy Shimmy Ya",
+    "youtubeId": "h2zgB93KANE",
+    "startTime": "3",
+    "sampledFrom": 9
+  },
+  {
+    "id": 10,
+    "artist": "Jay-Z & Alicia Keys",
+    "title": "Empire State Of Mind",
+    "youtubeId": "vk6014HuxcE",
+    "startTime": "9",
+    "sampledFrom": 10
+  },
+  {
+    "id": 11,
+    "artist": "Nas",
+    "title": "Represent",
+    "youtubeId": "xiVY_yPgvMs",
+    "startTime": "0",
+    "sampledFrom": 11
+  },
+  {
+    "id": 12,
+    "artist": "Raekwon",
+    "title": "Incarcerated Scarfaces",
+    "youtubeId": "hhVTTLOmggs",
+    "startTime": "13",
+    "sampledFrom": 12
+  },
+  {
+    "id": 13,
+    "artist": "MF DOOM",
+    "title": "Rapp Snitch Knishes",
+    "youtubeId": "gQtKJbptcns",
+    "startTime": "0",
+    "sampledFrom": 13
+  }
+]

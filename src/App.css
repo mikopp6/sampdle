@@ -1,0 +1,92 @@
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  min-height: 100vh;
+  top: 10px;
+  position: relative;
+}
+
+header {
+  position: relative;
+  margin-top: 10px; /* Adjust spacing from the top */
+  margin-bottom: 20px; /* Add spacing below the header */
+}
+
+.video {
+  position: relative;
+  margin-bottom: 20px; /* Add spacing below the video */
+}
+
+.guessNextButton {
+  display: inline-block;
+  margin-top: 20px; /* Add spacing above the button */
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.guessNextButton:hover {
+  border-color: #646cff;
+}
+
+
+.autocomplete-container {
+  display: inline-block;
+  width: 20%;
+}
+
+.autocomplete-container input {
+  flex: 1;
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.suggestions-list {
+  display: inline-block;
+  width: 320px;
+  max-height: 200px;
+  overflow-y: auto;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  border-top: none;
+  z-index: 1000;
+}
+
+.suggestions-list li {
+  padding: 8px 10px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.suggestions-list li.active {
+  background-color: #d3d3d3; /* Light gray background for active suggestion */
+  color: #000; /* Black text for active suggestion */
+}
+
+.suggestions-list li:hover {
+  background-color: #f0f0f0; /* Slightly lighter background on hover */
+  cursor: pointer;
+}
+
