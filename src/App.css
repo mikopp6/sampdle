@@ -90,3 +90,82 @@ header {
   cursor: pointer;
 }
 
+.end-img {
+  width: 500px;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.final-score {
+  font-size: 2rem;
+  margin: 10px 0;
+}
+
+.summary-table {
+  margin: 30px auto;
+  max-width: 900px;
+  background: #2a2a2a;
+  padding: 20px;
+  border-radius: 10px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #444;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+th {
+  color: #ffcc00;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.next-btn:focus {
+  outline: 4px solid #ffcc00;
+  box-shadow: 0 0 15px #ffcc00;
+  transform: scale(1.05);
+}
+
+.text-success { color: #44ff44; }
+.text-danger { color: #ff4444; }
+
+/* Live points container */
+.live-points {
+  font-size: 1.6rem;
+  font-weight: 800;
+  padding: 10px 25px;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  min-width: 180px;
+}
+
+/* Green during grace period (5s) */
+.perfect {
+  color: #00ffcc;
+}
+
+/* Yellow while dropping */
+.dropping {
+  color: #ffcc00;
+}
+
+/* Red when points are low (below 800) */
+.critical {
+  color: #ff4444;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 0px rgba(255, 68, 68, 0); }
+  50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(255, 68, 68, 0.4); }
+  100% { transform: scale(1); box-shadow: 0 0 0px rgba(255, 68, 68, 0); }
+}
