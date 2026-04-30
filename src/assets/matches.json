@@ -4,15 +4,29 @@
         "rounds": [
             {
                 "original": {
-                    "artist": "Thelonious Monk With John Coltrane",
-                    "title": "Functional",
-                    "youtubeId": "BSq_KyCfqUM",
-                    "startTime": "30"
+                    "artist": "The Chalmers",
+                    "title": "As Long As I've Got You",
+                    "youtubeId": "gp9uZjPaB4w",
+                    "startTime": "0"
                 },
                 "sample": {
                     "artist": "Wu-Tang Clan",
-                    "title": "Method Man",
-                    "youtubeId": "PEnwXYJcSZc",
+                    "title": "C.R.E.A.M",
+                    "youtubeId": "PBwAxmrE194",
+                    "startTime": "0"
+                }
+            },
+            {
+                "original": {
+                    "artist": "Joe Chambers",
+                    "title": "Mind Rain",
+                    "youtubeId": "jVZNvcV_Wq0",
+                    "startTime": "70"
+                },
+                "sample": {
+                    "artist": "Nas",
+                    "title": "N.Y. State Of Mind",
+                    "youtubeId": "hI8A14Qcv68",
                     "startTime": "0"
                 }
             },
@@ -32,63 +46,49 @@
             },
             {
                 "original": {
-                    "artist": "Bruce Hornsby And The Range",
-                    "title": "The Way It Is",
-                    "youtubeId": "GlRQjzltaMQ",
-                    "startTime": "0"
-                },
-                "sample": {
-                    "artist": "2Pac",
-                    "title": "Changes",
-                    "youtubeId": "eXvBjCO19QY",
-                    "startTime": "13"
-                }
-            },
-            {
-                "original": {
-                    "artist": "Barry Harris & Al Cohn",
-                    "title": "Skylark",
-                    "youtubeId": "erBJi1ofyzE",
-                    "startTime": "0"
-                },
-                "sample": {
-                    "artist": "Mobb Deep",
-                    "title": "Survival Of The Fittest",
-                    "youtubeId": "Dz5VzLz67WA",
-                    "startTime": "0"
-                }
-            },
-            {
-                "original": {
-                    "artist": "The Chalmers",
-                    "title": "As Long As I've Got You",
-                    "youtubeId": "gp9uZjPaB4w",
-                    "startTime": "0"
-                },
-                "sample": {
-                    "artist": "Wu-Tang Clan",
-                    "title": "C.R.E.A.M",
-                    "youtubeId": "PBwAxmrE194",
-                    "startTime": "0"
-                }
-            }
-        ]
-    },
-    {
-        "date": "1.5.2026",
-        "rounds": [
-            {
-                "original": {
                     "artist": "Billy Joel",
                     "title": "Stiletto",
                     "youtubeId": "lmUrJ_el-SM",
-                    "startTime": "0"
+                    "startTime": "8"
                 },
                 "sample": {
                     "artist": "Kool G. Rap & D.J. Polo",
                     "title": "Road To The Riches",
                     "youtubeId": "_0CbHZ7wqDM",
                     "startTime": "0"
+                }
+            },
+            {
+                "original": {
+                    "artist": "Lee Irwin",
+                    "title": "Thief Of Bagdad",
+                    "youtubeId": "vFhl9wwEcOE",
+                    "startTime": "52"
+                },
+                "sample": {
+                    "artist": "Nas",
+                    "title": "Represent",
+                    "youtubeId": "xiVY_yPgvMs",
+                    "startTime": "0"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2.5.2026",
+        "rounds": [
+            {
+                "original": {
+                    "artist": "Bruce Hornsby And The Range",
+                    "title": "The Way It Is",
+                    "youtubeId": "GlRQjzltaMQ",
+                    "startTime": "6"
+                },
+                "sample": {
+                    "artist": "2Pac",
+                    "title": "Changes",
+                    "youtubeId": "eXvBjCO19QY",
+                    "startTime": "13"
                 }
             },
             {
@@ -107,15 +107,15 @@
             },
             {
                 "original": {
-                    "artist": "Joe Chambers",
-                    "title": "Mind Rain",
-                    "youtubeId": "jVZNvcV_Wq0",
-                    "startTime": "0"
+                    "artist": "Thelonious Monk With John Coltrane",
+                    "title": "Functional",
+                    "youtubeId": "BSq_KyCfqUM",
+                    "startTime": "30"
                 },
                 "sample": {
-                    "artist": "Nas",
-                    "title": "N.Y. State Of Mind",
-                    "youtubeId": "hI8A14Qcv68",
+                    "artist": "Wu-Tang Clan",
+                    "title": "Method Man",
+                    "youtubeId": "PEnwXYJcSZc",
                     "startTime": "0"
                 }
             },
@@ -124,7 +124,7 @@
                     "artist": "Larnelle Harris",
                     "title": "He Looked Beyond My Faults",
                     "youtubeId": "-ZyQi-P88Gg",
-                    "startTime": "0"
+                    "startTime": "185"
                 },
                 "sample": {
                     "artist": "Gang Starr",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "date": "2.5.2026",
+        "date": "3.5.2026",
         "rounds": [
             {
                 "original": {
@@ -168,18 +168,18 @@
             },
             {
                 "original": {
-                    "artist": "Lee Irwin",
-                    "title": "Thief Of Bagdad",
-                    "youtubeId": "vFhl9wwEcOE",
-                    "startTime": "52"
+                    "artist": "Barry Harris & Al Cohn",
+                    "title": "Skylark",
+                    "youtubeId": "erBJi1ofyzE",
+                    "startTime": "0"
                 },
                 "sample": {
-                    "artist": "Nas",
-                    "title": "Represent",
-                    "youtubeId": "xiVY_yPgvMs",
+                    "artist": "Mobb Deep",
+                    "title": "Survival Of The Fittest",
+                    "youtubeId": "Dz5VzLz67WA",
                     "startTime": "0"
                 }
-            },
+            },            
             {
                 "original": {
                     "artist": "Detroit Emeralds",
@@ -223,457 +223,5 @@
                 }
             }
         ]
-    },
-    [
-        {
-            "date": "3.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "James Brown",
-                        "title": "Funky Drummer",
-                        "youtubeId": "AoQ4AtsFWVM",
-                        "startTime": "5"
-                    },
-                    "sample": {
-                        "artist": "Public Enemy",
-                        "title": "Fight The Power",
-                        "youtubeId": "8PaoLy7PHwk",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Melvin Bliss",
-                        "title": "Synthetic Substitution",
-                        "youtubeId": "jSPpbOGnFgk",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Nas",
-                        "title": "Halftime",
-                        "youtubeId": "FNkFSIOnt7g",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "The Incredible Bongo Band",
-                        "title": "Apache",
-                        "youtubeId": "5V2oGEqkMlc",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Sugarhill Gang",
-                        "title": "Apache (Jump On It)",
-                        "youtubeId": "jDmDKC_K8aA",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Lyn Collins",
-                        "title": "Think (About It)",
-                        "youtubeId": "eGHTqPgkJbs",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Rob Base & DJ EZ Rock",
-                        "title": "It Takes Two",
-                        "youtubeId": "4DGgGVP0MoI",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Ann Peebles",
-                        "title": "I Can't Stand The Rain",
-                        "youtubeId": "CUjmRkVuBHc",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Missy Elliott",
-                        "title": "The Rain (Supa Dupa Fly)",
-                        "youtubeId": "dPeHxCmzAR0",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "4.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "Chic",
-                        "title": "Good Times",
-                        "youtubeId": "pJAIRBtmkiU",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Grandmaster Flash",
-                        "title": "The Adventures of Grandmaster Flash",
-                        "youtubeId": "MFFOFbPnPGM",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Isaac Hayes",
-                        "title": "Ike's Rap II",
-                        "youtubeId": "rRjoPFpB3Vg",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Jay-Z",
-                        "title": "Never Change",
-                        "youtubeId": "piQ9_XQtO30",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Syl Johnson",
-                        "title": "Different Strokes",
-                        "youtubeId": "0V71HY4ZFjM",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Wu-Tang Clan",
-                        "title": "Bring Da Ruckus",
-                        "youtubeId": "pJk0p-98Xzc",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Al Green",
-                        "title": "Here I Am (Come And Take Me)",
-                        "youtubeId": "Ub5W5XqGjAU",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "UGK",
-                        "title": "Int'l Players Anthem",
-                        "youtubeId": "9N3FGDMCf_4",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Funkadelic",
-                        "title": "Can You Get To That",
-                        "youtubeId": "Ou5gBLvmMbM",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "De La Soul",
-                        "title": "Me Myself And I",
-                        "youtubeId": "F6sVkGfWxko",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "5.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "George Benson",
-                        "title": "The Ghetto",
-                        "youtubeId": "g89d1FoLOaQ",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Jay-Z",
-                        "title": "Do It Again (Put Ya Hands Up)",
-                        "youtubeId": "F3QvLsVzFnw",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Bobby Byrd",
-                        "title": "I Know You Got Soul",
-                        "youtubeId": "eiW1xnmEt28",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Eric B. & Rakim",
-                        "title": "I Know You Got Soul",
-                        "youtubeId": "pZHFGPdYdpk",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Curtis Mayfield",
-                        "title": "Superfly",
-                        "youtubeId": "ByR5LVFB10Y",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Kanye West",
-                        "title": "Gone",
-                        "youtubeId": "YS4CQVM-pos",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Otis Redding",
-                        "title": "It's A Man's Man's Man's World",
-                        "youtubeId": "gFmE_0bFO2w",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Jay-Z",
-                        "title": "Otis",
-                        "youtubeId": "RyILHgLGDRk",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Willie Hutch",
-                        "title": "I Choose You",
-                        "youtubeId": "hV6rnT6H1YE",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Notorious B.I.G.",
-                        "title": "One More Chance",
-                        "youtubeId": "gxT4ztMYotE",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "6.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "Kool & The Gang",
-                        "title": "N.T.",
-                        "youtubeId": "7xNHMNs1F1o",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Beastie Boys",
-                        "title": "Shadrach",
-                        "youtubeId": "HuI93qLBkDM",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Shirley Bassey",
-                        "title": "Diamonds Are Forever",
-                        "youtubeId": "3pRpXdlQFRM",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Kanye West",
-                        "title": "Diamonds From Sierra Leone",
-                        "youtubeId": "DAY6hTEdCME",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Nina Simone",
-                        "title": "Sinnerman",
-                        "youtubeId": "xREMF3P3lEQ",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Kanye West",
-                        "title": "Blood On The Leaves",
-                        "youtubeId": "gazeGf_xtRg",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Donny Hathaway",
-                        "title": "Voices Inside (Everything Is Everything)",
-                        "youtubeId": "eQDuH7bIBWY",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Lauryn Hill",
-                        "title": "Everything Is Everything",
-                        "youtubeId": "kKaN3JbP2gQ",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Marvin Gaye",
-                        "title": "I Heard It Through The Grapevine",
-                        "youtubeId": "hovmNhj8Y9c",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "MC Hammer",
-                        "title": "U Can't Touch This",
-                        "youtubeId": "otCpCn0l4Wo",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "7.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "Rick James",
-                        "title": "Super Freak",
-                        "youtubeId": "BHHukRvMHaQ",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "MC Hammer",
-                        "title": "U Can't Touch This",
-                        "youtubeId": "otCpCn0l4Wo",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "David Bowie",
-                        "title": "Fame",
-                        "youtubeId": "s-XiGOcjMwc",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Vanilla Ice",
-                        "title": "Ice Ice Baby",
-                        "youtubeId": "rog8ou-ZepE",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Queen & David Bowie",
-                        "title": "Under Pressure",
-                        "youtubeId": "a01QQZyl-_I",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Vanilla Ice",
-                        "title": "Ice Ice Baby",
-                        "youtubeId": "rog8ou-ZepE",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "The Sugarhill Gang",
-                        "title": "Rapper's Delight",
-                        "youtubeId": "rKTUAESacQM",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Chic",
-                        "title": "Good Times",
-                        "youtubeId": "pJAIRBtmkiU",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Quincy Jones",
-                        "title": "Soul Bossa Nova",
-                        "youtubeId": "T2xTQ2vRVms",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Madvillain",
-                        "title": "Accordion",
-                        "youtubeId": "blCnFkHaVyM",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "8.5.2026",
-            "rounds": [
-                {
-                    "original": {
-                        "artist": "ESG",
-                        "title": "UFO",
-                        "youtubeId": "OmJkRCr6T9Y",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Notorious B.I.G.",
-                        "title": "Party And Bullshit",
-                        "youtubeId": "fJAm_Y1dHGc",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Average White Band",
-                        "title": "Pick Up The Pieces",
-                        "youtubeId": "OXb0Q0NghY4",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Beastie Boys",
-                        "title": "The New Style",
-                        "youtubeId": "8hAf6QBbNyk",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Trouble Funk",
-                        "title": "Pump Me Up",
-                        "youtubeId": "XHMjg84oOxU",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "N.W.A",
-                        "title": "Dopeman",
-                        "youtubeId": "K4bIbEAzFQY",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Syl Johnson",
-                        "title": "Is It Because I'm Black",
-                        "youtubeId": "1BcZGUjzYlw",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Kanye West",
-                        "title": "Spaceship",
-                        "youtubeId": "LCNfBRMqfGQ",
-                        "startTime": "0"
-                    }
-                },
-                {
-                    "original": {
-                        "artist": "Marvin Gaye",
-                        "title": "Let's Get It On",
-                        "youtubeId": "aOeEkKhpZaA",
-                        "startTime": "0"
-                    },
-                    "sample": {
-                        "artist": "Lil' Kim",
-                        "title": "Crush On You",
-                        "youtubeId": "tnC8U8HE6N8",
-                        "startTime": "0"
-                    }
-                }
-            ]
-        }
-    ]
+    }
 ]

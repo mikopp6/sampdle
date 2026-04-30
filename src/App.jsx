@@ -4,7 +4,7 @@ import YoutubeEmbed from "./YoutubeEmbed";
 import AutoComplete from "./Autocomplete";
 
 import winnerImage from "./assets/win.png";
-import loserImage from "./assets/cat.png"; 
+import loserImage from "./assets/cat.png";
 import matchesData from "./assets/matches.json";
 
 const App = () => {
@@ -25,6 +25,9 @@ const App = () => {
   useEffect(() => {
     const todayStr = new Date().toLocaleDateString('fi-FI');
     const todayData = matchesData.find(m => m.date === todayStr);
+    console.log(matchesData)
+    console.log(todayStr)
+    console.log(todayData)
     setDailyRounds(todayData ? todayData.rounds : matchesData?.[0]?.rounds || []);
   }, []);
 
@@ -130,16 +133,17 @@ const App = () => {
         <div className="game-screen">
           <div className="game-header">
             <h2>Round {round + 1} / {dailyRounds.length}</h2>
-            <div className={`live-points ${livePoints === 1000 ? 'perfect' : livePoints > 800 ? 'dropping' : 'critical'}`}>
-              Points: {livePoints}
-            </div>
+            {!showResult &&
+              <div className={`live-points ${livePoints === 1000 ? 'perfect' : livePoints > 800 ? 'dropping' : 'critical'}`}>
+                Points: {livePoints}
+              </div>
+            }
           </div>
 
           {!showResult ? (
             <div className="guess-area">
               <h3>Original Source:</h3>
               <YoutubeEmbed embedId={currentRoundData.original.youtubeId} startTime={currentRoundData.original.startTime} />
-              <p>Which song sampled this? (Artist & Title)</p>
               <AutoComplete onSubmit={handleSubmit} />
             </div>
           ) : (
@@ -158,7 +162,7 @@ const App = () => {
       {gameState === 2 && (
         <div className="end-screen">
           <img src={totalScore >= 4000 ? winnerImage : loserImage} alt="Result" className="end-img" />
-          <h1>{totalScore < 4000 ? "BETTER LUCK NEXT TIME" : "YOU'RE WINNER"}</h1>
+          <h1>{totalScore < 4000 && "PASKA PELI"}</h1>
           <p className="final-score">Total Score: {totalScore} / 5000</p>
           <div className="summary-table">
             <table>
